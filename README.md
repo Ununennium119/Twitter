@@ -1,2 +1,3 @@
 # Twitter
- Simple command line messenger
+
+Simple command line messenger written in C.
